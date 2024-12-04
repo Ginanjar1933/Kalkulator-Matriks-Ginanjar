@@ -66,6 +66,7 @@ const MatrixCalculator = () => {
     <div className="bg-gray-100 p-6 rounded-2xl shadow-2xl max-w-xl mx-auto">
       <div className="bg-gradient-to-r from-blue-500 to-blue-700 text-white text-center py-4 rounded-t-xl mb-4">
         <h1 className="text-2xl font-bold">Kalkulator Matriks Ordo 2x2</h1>
+        <h2 className="text-2x1 font-bold">By Ginanjar</h2>
       </div>
 
       <div className="grid md:grid-cols-3 gap-4 mb-4">
